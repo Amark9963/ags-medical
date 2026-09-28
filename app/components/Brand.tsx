@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { SafeLink as Link } from "./SafeLink";
 
 export function Brand() {
   return (

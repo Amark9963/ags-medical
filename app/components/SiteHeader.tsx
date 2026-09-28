@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { SafeLink as Link } from "./SafeLink";
 import { productGroups } from "../data";
 import { Brand } from "./Brand";
 
